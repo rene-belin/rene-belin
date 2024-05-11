@@ -6,13 +6,11 @@
 - 🌍 Je suis basé à Angers.
 
 ## Mes compétences
-- 💻 J'ai de l'expérience en : HTML5, CSS3, SASS, Git, GitHub, JavaScript, PHP, SQL, VueJS, Bootstrap, photographie (Adobe lightroom, darktable), infographie (Adobe photoshop, illustrator, indesign, bridge, inkscape, GIMP, blender 3d), filmora, iconographe.
+- 💻 J'ai de l'expérience en : HTML5, CSS3, Git, GitHub, JavaScript, PHP, Symfony, SQL, Bootstrap, photographie (Adobe lightroom, darktable), infographie (Adobe photoshop, illustrator, indesign, bridge, inkscape, GIMP, blender 3d), filmora, iconographe.
 - 🚀 J'adore apprendre de nouvelles technologies et relever des défis techniques.
 
 ## Mes projets
 - 🌱 Je travaille actuellement sur différent projet, pour acquérir de l'expérience et monter en compétences.
-- 👀 Je recherche un stage en entreprise pour la période du 11/12/2023 au 09/02/2024 en DWWM.
-- 🎓 Réussir mon titre pro.
 - 🎓 Me lancer dans la vie active.
 
 ## Me contacter
