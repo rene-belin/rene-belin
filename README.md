@@ -2,7 +2,6 @@
 
 ## À propos de moi
 - 👋 Je m'appelle René B.
-- 🎓 Je suis actuellement en formation en développeur web & web mobile.
 - 🌍 Je suis basé à Angers.
 
 ## Mes compétences
