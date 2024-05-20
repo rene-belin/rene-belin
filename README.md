@@ -8,6 +8,7 @@
 - 💻 Développeur web : HTML5, CSS3, Git, GitHub, PHP, Symfony, SQL, Bootstrap
 - 🎓 Photographe (Adobe lightroom, darktable)
 - 🎓 Infographiste (Adobe photoshop, illustrator, indesign, bridge, inkscape, figma, GIMP, blender 3d, filmora)
+- 🎓 Iconographe
 - 🎓 Bureautique (Word, Excel, PowerPoint, Publisher)
 - 🎓 OS : Windows, Linux, MAC
 - 🚀 J'aime apprendre et relever les défis techniques.
