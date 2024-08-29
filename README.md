@@ -21,4 +21,4 @@
 - 📫 Vous pouvez me contacter par e-mail : rene.b@gmx.fr
 - 💼 Mon profil LinkedIn : https://www.linkedin.com/in/ren%C3%A9-belin-432523271/
 
-Merci d'avoir visité mon profil GitHub ! N'hésitez pas à explorer mes projets et à me contacter si vous avez des idées de collaboration.
+Merci de votre visite.
