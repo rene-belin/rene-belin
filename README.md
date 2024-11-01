@@ -2,23 +2,23 @@
 
 ## À propos de moi
 - 👋 Je m'appelle René B.
-- 🌍 J'habite à Sceaux d'Anjou
+- 🌍 J'habite à Angers
 
 ## Mes compétences
 - 💻 Développeur web : HTML5, CSS3, Git, GitHub, PHP, Symfony, SQL, Bootstrap
-- 🎓 Photographe (Adobe lightroom, darktable)
-- 🎓 Infographiste (Adobe photoshop, illustrator, indesign, bridge, inkscape, figma, GIMP, blender 3d, filmora)
+- 🎓 Photographe (Développement : Adobe lightroom, darktable)
+- 🎓 Infographiste (Compétence : Adobe photoshop, illustrator, indesign, bridge, inkscape, figma, GIMP, blender 3d, filmora)
 - 🎓 Iconographe
 - 🎓 Bureautique (Word, Excel, PowerPoint, Publisher)
 - 🎓 OS : Windows, Linux, MAC
-- 🚀 J'aime apprendre et relever les défis techniques.
+- 🚀 Relever les défis techniques.
 
 ## Mes projets
-- 🌱 Acquérir de l'expérience et monter en compétences, en travaillant régulièrement.
-- 🎓 Me lancer dans la vie active (reconversion Pro).
+- 🌱 Acquérir de l'expérience et monter en compétences.
+- 🎓 Apprendre et comprendre.
 
 ## Me contacter
 - 📫 Vous pouvez me contacter par e-mail : rene.b@gmx.fr
-- 💼 Mon profil LinkedIn : https://www.linkedin.com/in/ren%C3%A9-belin-432523271/
+- 💼 
 
 Merci de votre visite.
